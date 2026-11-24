@@ -1,0 +1,5 @@
+# Keep LF line endings in the repo and the working copy on every OS,
+# so Windows checkouts do not show every file as modified.
+* text=auto eol=lf
+*.xlsx binary
+*.png binary

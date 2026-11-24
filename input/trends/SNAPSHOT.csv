@@ -1,0 +1,7 @@
+source,files,pulled_on
+acs,acs1_maine.csv,2026-10-29
+bea,bea_sl_deflator_annual.csv,2026-10-19
+cpi,"cpi_ne_annual.csv, cpi_ne_monthly.csv",2026-10-19
+fhfa,"fhfa_hpi_at_state.xlsx, fhfa_hpi_at_county.xlsx",2026-10-19
+redfin,redfin_maine_monthly.csv,2026-10-19
+zillow,zillow_zhvi_maine_monthly.csv,2026-10-19

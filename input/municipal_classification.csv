@@ -1,0 +1,495 @@
+GEOCODENUM,TOWN,MUNI,NAMELSAD20,County,MuniOrUT,pop2020,MuniType_Size,MuniType_Service,MuniType_Economy
+21010,Abbot,ABBOT,Abbot town,PISCATAQUIS,m,650,Small Town,Non-SC,bedroom
+31010,Acton,ACTON,Acton town,YORK,m,2671,Large Town,Non-SC,tourism
+29010,Addison,ADDISON,Addison town,WASHINGTON,m,1148,Medium Town,Non-SC,fishing
+11010,Albion,ALBION,Albion town,KENNEBEC,m,2006,Large Town,Non-SC,bedroom
+29020,Alexander,ALEXANDER,Alexander town,WASHINGTON,m,525,Small Town,Non-SC,bedroom
+31020,Alfred,ALFRED,Alfred town,YORK,m,3073,Large Town,Non-SC,manufacturing
+3010,Allagash,ALLAGASH,Allagash town,AROOSTOOK,m,237,Tiny Town,Non-SC,unclassified
+15010,Alna,ALNA,Alna town,LINCOLN,m,710,Small Town,Non-SC,bedroom
+19010,Alton,ALTON,Alton town,PENOBSCOT,m,829,Small Town,Non-SC,bedroom
+9010,Amherst,AMHERST,Amherst town,HANCOCK,m,248,Tiny Town,Non-SC,unclassified
+3020,Amity,AMITY,Amity town,AROOSTOOK,m,253,Tiny Town,Non-SC,unclassified
+17010,Andover,ANDOVER,Andover town,OXFORD,m,752,Small Town,SC-adjacent,farm_forest
+25010,Anson,ANSON,Anson town,SOMERSET,m,2291,Large Town,Non-SC,manufacturing
+13010,Appleton,APPLETON,Appleton town,KNOX,m,1411,Medium Town,Non-SC,bedroom
+3040,Bancroft Twp,AROOSTOOK UT,Bancroft UT,AROOSTOOK,u,1936,UT,UT,unclassified
+23010,Arrowsic,ARROWSIC,Arrowsic town,SAGADAHOC,m,477,Small Town,Non-SC,bedroom
+31030,Arundel,ARUNDEL,Arundel town,YORK,m,4264,Small City,SC-adjacent,diversified
+3030,Ashland,ASHLAND,Ashland town,AROOSTOOK,m,1202,Medium Town,Small,farm_forest
+25020,Athens,ATHENS,Athens town,SOMERSET,m,952,Small Town,Non-SC,farm_forest
+1010,Auburn,AUBURN,Auburn city,ANDROSCOGGIN,m,24061,City,Primary,diversified
+11020,Augusta,AUGUSTA,Augusta city,KENNEBEC,m,18899,City,Primary,institutional
+9020,Aurora,AURORA,Aurora town,HANCOCK,m,93,Tiny Town,Non-SC,unclassified
+7010,Avon,AVON,Avon town,FRANKLIN,m,450,Small Town,Non-SC,institutional
+29030,Baileyville,BAILEYVILLE,Baileyville town,WASHINGTON,m,1318,Medium Town,Non-SC,manufacturing
+5010,Baldwin,BALDWIN,Baldwin town,CUMBERLAND,m,1520,Medium Town,Non-SC,institutional
+19020,Bangor,BANGOR,Bangor city,PENOBSCOT,m,31753,City,Primary,institutional
+9030,Bar Harbor,BAR HARBOR,Bar Harbor town,HANCOCK,m,5089,Small City,Primary,tourism
+29040,Baring Plt,BARING PLT,Baring plantation,WASHINGTON,m,201,Tiny Town,SC-adjacent,unclassified
+23020,Bath,BATH,Bath city,SAGADAHOC,m,8766,Small City,Specialized,manufacturing
+29050,Beals,BEALS,Beals town,WASHINGTON,m,443,Small Town,Non-SC,fishing
+21037,Beaver Cove,BEAVER COVE,Beaver Cove town,PISCATAQUIS,m,133,Tiny Town,SC-adjacent,unclassified
+29060,Beddington,BEDDINGTON,Beddington town,WASHINGTON,m,60,Tiny Town,Non-SC,unclassified
+27010,Belfast,BELFAST,Belfast city,WALDO,m,6938,Small City,Primary,professional_services
+11030,Belgrade,BELGRADE,Belgrade town,KENNEBEC,m,3250,Large Town,Non-SC,manufacturing
+27020,Belmont,BELMONT,Belmont town,WALDO,m,976,Small Town,SC-adjacent,bedroom
+11040,Benton,BENTON,Benton town,KENNEBEC,m,2715,Large Town,SC-adjacent,manufacturing
+31040,Berwick,BERWICK,Berwick town,YORK,m,7950,Small City,Non-SC,bedroom
+17020,Bethel,BETHEL,Bethel town,OXFORD,m,2504,Large Town,Specialized,tourism
+31050,Biddeford,BIDDEFORD,Biddeford city,YORK,m,22552,City,Primary,diversified
+25030,Bingham,BINGHAM,Bingham town,SOMERSET,m,866,Small Town,Secondary,farm_forest
+3060,Blaine,BLAINE,Blaine town,AROOSTOOK,m,667,Small Town,SC-adjacent,bedroom
+9040,Blue Hill,BLUE HILL,Blue Hill town,HANCOCK,m,2792,Large Town,Secondary,fishing
+15020,Boothbay,BOOTHBAY,Boothbay town,LINCOLN,m,3003,Large Town,SC-adjacent,fishing
+15030,Boothbay Harbor,BOOTHBAY HARBOR,Boothbay Harbor town,LINCOLN,m,2027,Large Town,Secondary,tourism
+23030,Bowdoin,BOWDOIN,Bowdoin town,SAGADAHOC,m,3136,Large Town,Non-SC,bedroom
+23040,Bowdoinham,BOWDOINHAM,Bowdoinham town,SAGADAHOC,m,3047,Large Town,Non-SC,bedroom
+21050,Bowerbank,BOWERBANK,Bowerbank town,PISCATAQUIS,m,136,Tiny Town,SC-adjacent,unclassified
+19030,Bradford,BRADFORD,Bradford town,PENOBSCOT,m,1184,Medium Town,Non-SC,bedroom
+19040,Bradley,BRADLEY,Bradley town,PENOBSCOT,m,1532,Medium Town,SC-adjacent,bedroom
+15040,Bremen,BREMEN,Bremen town,LINCOLN,m,823,Small Town,SC-adjacent,fishing
+19050,Brewer,BREWER,Brewer city,PENOBSCOT,m,9672,Small City,Secondary,diversified
+3070,Bridgewater,BRIDGEWATER,Bridgewater town,AROOSTOOK,m,532,Small Town,Non-SC,farm_forest
+5020,Bridgton,BRIDGTON,Bridgton town,CUMBERLAND,m,5418,Small City,Small,manufacturing
+25040,Brighton Plt,BRIGHTON PLT,Brighton plantation,SOMERSET,m,62,Tiny Town,SC-adjacent,unclassified
+15050,Bristol,BRISTOL,Bristol town,LINCOLN,m,2834,Large Town,SC-adjacent,fishing
+9050,Brooklin,BROOKLIN,Brooklin town,HANCOCK,m,827,Small Town,SC-adjacent,professional_services
+27030,Brooks,BROOKS,Brooks town,WALDO,m,1010,Medium Town,Non-SC,bedroom
+9060,Brooksville,BROOKSVILLE,Brooksville town,HANCOCK,m,935,Small Town,Non-SC,fishing
+17030,Brownfield,BROWNFIELD,Brownfield town,OXFORD,m,1631,Medium Town,Non-SC,bedroom
+21060,Brownville,BROWNVILLE,Brownville town,PISCATAQUIS,m,1139,Medium Town,Non-SC,manufacturing
+5030,Brunswick,BRUNSWICK,Brunswick town,CUMBERLAND,m,21756,City,Primary,institutional
+17040,Buckfield,BUCKFIELD,Buckfield town,OXFORD,m,1983,Medium Town,Non-SC,bedroom
+9070,Bucksport,BUCKSPORT,Bucksport town,HANCOCK,m,4944,Small City,Non-SC,institutional
+19060,Burlington,BURLINGTON,Burlington town,PENOBSCOT,m,373,Small Town,Non-SC,bedroom
+27040,Burnham,BURNHAM,Burnham town,WALDO,m,1096,Medium Town,SC-adjacent,institutional
+31060,Buxton,BUXTON,Buxton town,YORK,m,8376,Small City,SC-adjacent,farm_forest
+17050,Byron,BYRON,Byron town,OXFORD,m,103,Tiny Town,Non-SC,unclassified
+29070,Calais,CALAIS,Calais city,WASHINGTON,m,3079,Large Town,Primary,institutional
+25050,Cambridge,CAMBRIDGE,Cambridge town,SOMERSET,m,443,Small Town,Non-SC,bedroom
+13020,Camden,CAMDEN,Camden town,KNOX,m,5232,Small City,Primary,tourism
+25060,Canaan,CANAAN,Canaan town,SOMERSET,m,2193,Large Town,SC-adjacent,bedroom
+17060,Canton,CANTON,Canton town,OXFORD,m,1125,Medium Town,Non-SC,farm_forest
+5040,Cape Elizabeth,CAPE ELIZABETH,Cape Elizabeth town,CUMBERLAND,m,9535,Small City,SC-adjacent,professional_services
+25070,Caratunk,CARATUNK,Caratunk town,SOMERSET,m,81,Tiny Town,Non-SC,unclassified
+3080,Caribou,CARIBOU,Caribou city,AROOSTOOK,m,7396,Small City,Primary,institutional
+19070,Carmel,CARMEL,Carmel town,PENOBSCOT,m,2867,Large Town,Non-SC,bedroom
+7018,Carrabassett Valley,CARRABASSETT VALLEY,Carrabassett Valley town,FRANKLIN,m,673,Small Town,Non-SC,tourism
+19080,Carroll Plt,CARROLL PLT,Carroll plantation,PENOBSCOT,m,138,Tiny Town,Non-SC,unclassified
+7020,Carthage,CARTHAGE,Carthage town,FRANKLIN,m,509,Small Town,Non-SC,bedroom
+5050,Casco,CASCO,Casco town,CUMBERLAND,m,3646,Small City,Non-SC,tourism
+9080,Castine,CASTINE,Castine town,HANCOCK,m,1320,Medium Town,Non-SC,institutional
+3100,Castle Hill,CASTLE HILL,Castle Hill town,AROOSTOOK,m,373,Small Town,Non-SC,institutional
+3110,Caswell,CASWELL,Caswell town,AROOSTOOK,m,293,Tiny Town,SC-adjacent,unclassified
+3120,Chapman,CHAPMAN,Chapman town,AROOSTOOK,m,491,Small Town,SC-adjacent,bedroom
+19090,Charleston,CHARLESTON,Charleston town,PENOBSCOT,m,1551,Medium Town,SC-adjacent,farm_forest
+29090,Charlotte,CHARLOTTE,Charlotte town,WASHINGTON,m,337,Small Town,SC-adjacent,bedroom
+5055,Chebeague Island,CHEBEAGUE ISLAND,Chebeague Island town,CUMBERLAND,m,396,Small Town,SC-adjacent,fishing
+11050,Chelsea,CHELSEA,Chelsea town,KENNEBEC,m,2778,Large Town,SC-adjacent,institutional
+29100,Cherryfield,CHERRYFIELD,Cherryfield town,WASHINGTON,m,1107,Medium Town,SC-adjacent,fishing
+19100,Chester,CHESTER,Chester town,PENOBSCOT,m,549,Small Town,Non-SC,bedroom
+7030,Chesterville,CHESTERVILLE,Chesterville town,FRANKLIN,m,1328,Medium Town,SC-adjacent,bedroom
+11060,China,CHINA,China town,KENNEBEC,m,4408,Small City,Non-SC,bedroom
+19110,Clifton,CLIFTON,Clifton town,PENOBSCOT,m,840,Small Town,Non-SC,bedroom
+11070,Clinton,CLINTON,Clinton town,KENNEBEC,m,3370,Large Town,SC-adjacent,farm_forest
+29120,Columbia,COLUMBIA,Columbia town,WASHINGTON,m,435,Small Town,Non-SC,fishing
+29130,Columbia Falls,COLUMBIA FALLS,Columbia Falls town,WASHINGTON,m,476,Small Town,Non-SC,fishing
+29140,Cooper,COOPER,Cooper town,WASHINGTON,m,168,Tiny Town,Non-SC,unclassified
+7040,Coplin Plt,COPLIN PLT,Coplin plantation,FRANKLIN,m,131,Tiny Town,Non-SC,unclassified
+19120,Corinna,CORINNA,Corinna town,PENOBSCOT,m,2221,Large Town,Non-SC,farm_forest
+19130,Corinth,CORINTH,Corinth town,PENOBSCOT,m,2900,Large Town,Non-SC,diversified
+31070,Cornish,CORNISH,Cornish town,YORK,m,1508,Medium Town,Small,tourism
+25080,Cornville,CORNVILLE,Cornville town,SOMERSET,m,1317,Medium Town,SC-adjacent,bedroom
+9090,Cranberry Isles,CRANBERRY ISLES,Cranberry Isles town,HANCOCK,m,160,Tiny Town,SC-adjacent,unclassified
+29150,Crawford,CRAWFORD,Crawford town,WASHINGTON,m,93,Tiny Town,Non-SC,unclassified
+3130,Crystal,CRYSTAL,Crystal town,AROOSTOOK,m,248,Tiny Town,SC-adjacent,unclassified
+5060,Cumberland,CUMBERLAND,Cumberland town,CUMBERLAND,m,8473,Small City,Non-SC,professional_services
+13030,Cushing,CUSHING,Cushing town,KNOX,m,1502,Medium Town,Non-SC,bedroom
+29160,Cutler,CUTLER,Cutler town,WASHINGTON,m,524,Small Town,Non-SC,fishing
+3140,Cyr Plt,CYR PLT,Cyr plantation,AROOSTOOK,m,78,Tiny Town,Non-SC,unclassified
+7050,Dallas Plt,DALLAS PLT,Dallas plantation,FRANKLIN,m,304,Small Town,Non-SC,bedroom
+15060,Damariscotta,DAMARISCOTTA,Damariscotta town,LINCOLN,m,2297,Large Town,Primary,fishing
+29170,Danforth,DANFORTH,Danforth town,WASHINGTON,m,587,Small Town,Non-SC,institutional
+31080,Dayton,DAYTON,Dayton town,YORK,m,2129,Large Town,SC-adjacent,bedroom
+29180,Deblois,DEBLOIS,Deblois town,WASHINGTON,m,74,Tiny Town,Non-SC,unclassified
+9100,Dedham,DEDHAM,Dedham town,HANCOCK,m,1648,Medium Town,SC-adjacent,bedroom
+9110,Deer Isle,DEER ISLE,Deer Isle town,HANCOCK,m,2194,Large Town,Non-SC,fishing
+17070,Denmark,DENMARK,Denmark town,OXFORD,m,1197,Medium Town,Non-SC,manufacturing
+25090,Dennistown Plt,DENNISTOWN PLT,Dennistown plantation,SOMERSET,m,61,Tiny Town,Non-SC,unclassified
+29190,Dennysville,DENNYSVILLE,Dennysville town,WASHINGTON,m,300,Small Town,Non-SC,institutional
+25100,Detroit,DETROIT,Detroit town,SOMERSET,m,885,Small Town,SC-adjacent,diversified
+19140,Dexter,DEXTER,Dexter town,PENOBSCOT,m,3803,Small City,Specialized,institutional
+17080,Dixfield,DIXFIELD,Dixfield town,OXFORD,m,2253,Large Town,Non-SC,manufacturing
+19150,Dixmont,DIXMONT,Dixmont town,PENOBSCOT,m,1211,Medium Town,Non-SC,bedroom
+21070,Dover-Foxcroft,DOVER-FOXCROFT,Dover-Foxcroft town,PISCATAQUIS,m,4422,Small City,Secondary,institutional
+15070,Dresden,DRESDEN,Dresden town,LINCOLN,m,1725,Medium Town,Non-SC,bedroom
+1020,Durham,DURHAM,Durham town,ANDROSCOGGIN,m,4173,Small City,SC-adjacent,bedroom
+3150,Dyer Brook,DYER BROOK,Dyer Brook town,AROOSTOOK,m,215,Tiny Town,Non-SC,unclassified
+3170,Eagle Lake,EAGLE LAKE,Eagle Lake town,AROOSTOOK,m,772,Small Town,Non-SC,farm_forest
+29200,East Machias,EAST MACHIAS,East Machias town,WASHINGTON,m,1326,Medium Town,SC-adjacent,fishing
+19170,East Millinocket,EAST MILLINOCKET,East Millinocket town,PENOBSCOT,m,1572,Medium Town,Non-SC,institutional
+9120,Eastbrook,EASTBROOK,Eastbrook town,HANCOCK,m,424,Small Town,Non-SC,bedroom
+3180,Easton,EASTON,Easton town,AROOSTOOK,m,1320,Medium Town,SC-adjacent,farm_forest
+29210,Eastport,EASTPORT,Eastport city,WASHINGTON,m,1288,Medium Town,Primary,fishing
+19180,Eddington,EDDINGTON,Eddington town,PENOBSCOT,m,2194,Large Town,SC-adjacent,bedroom
+15080,Edgecomb,EDGECOMB,Edgecomb town,LINCOLN,m,1188,Medium Town,Non-SC,bedroom
+19190,Edinburg,EDINBURG,Edinburg town,PENOBSCOT,m,134,Tiny Town,Non-SC,unclassified
+31090,Eliot,ELIOT,Eliot town,YORK,m,6717,Small City,Non-SC,manufacturing
+9130,Ellsworth,ELLSWORTH,Ellsworth city,HANCOCK,m,8399,Small City,Primary,diversified
+25110,Embden,EMBDEN,Embden town,SOMERSET,m,902,Small Town,SC-adjacent,bedroom
+19200,Enfield,ENFIELD,Enfield town,PENOBSCOT,m,1435,Medium Town,Non-SC,farm_forest
+19210,Etna,ETNA,Etna town,PENOBSCOT,m,1226,Medium Town,Non-SC,institutional
+7060,Eustis,EUSTIS,Eustis town,FRANKLIN,m,641,Small Town,Non-SC,tourism
+19220,Exeter,EXETER,Exeter town,PENOBSCOT,m,963,Small Town,Non-SC,bedroom
+25120,Fairfield,FAIRFIELD,Fairfield town,SOMERSET,m,6484,Small City,SC-adjacent,institutional
+5070,Falmouth,FALMOUTH,Falmouth town,CUMBERLAND,m,12444,City,Specialized,professional_services
+11080,Farmingdale,FARMINGDALE,Farmingdale town,KENNEBEC,m,2995,Large Town,SC-adjacent,institutional
+7070,Farmington,FARMINGTON,Farmington town,FRANKLIN,m,7592,Small City,Primary,institutional
+11090,Fayette,FAYETTE,Fayette town,KENNEBEC,m,1160,Medium Town,Non-SC,bedroom
+3190,Fort Fairfield,FORT FAIRFIELD,Fort Fairfield town,AROOSTOOK,m,3322,Large Town,SC-adjacent,farm_forest
+3200,Fort Kent,FORT KENT,Fort Kent town,AROOSTOOK,m,4067,Small City,Primary,farm_forest
+27050,Frankfort,FRANKFORT,Frankfort town,WALDO,m,1231,Medium Town,Non-SC,bedroom
+9140,Franklin,FRANKLIN,Franklin town,HANCOCK,m,1567,Medium Town,Non-SC,bedroom
+7110,Madrid Twp,FRANKLIN UT,East Central Franklin UT,FRANKLIN,u,989,UT,UT,unclassified
+27060,Freedom,FREEDOM,Freedom town,WALDO,m,711,Small Town,Non-SC,bedroom
+5080,Freeport,FREEPORT,Freeport town,CUMBERLAND,m,8737,Small City,Secondary,diversified
+9190,Frenchboro,FRENCHBORO,Frenchboro town,HANCOCK,m,29,Tiny Town,Non-SC,unclassified
+3210,Frenchville,FRENCHVILLE,Frenchville town,AROOSTOOK,m,1052,Medium Town,SC-adjacent,manufacturing
+13040,Friendship,FRIENDSHIP,Friendship town,KNOX,m,1142,Medium Town,Non-SC,fishing
+5085,Frye Island,FRYE ISLAND,Frye Island town,CUMBERLAND,m,32,Tiny Town,Non-SC,unclassified
+17090,Fryeburg,FRYEBURG,Fryeburg town,OXFORD,m,3369,Large Town,Non-SC,farm_forest
+11100,Gardiner,GARDINER,Gardiner city,KENNEBEC,m,5961,Small City,Small,institutional
+3220,Garfield Plt,GARFIELD PLT,Garfield plantation,AROOSTOOK,m,79,Tiny Town,Non-SC,unclassified
+19230,Garland,GARLAND,Garland town,PENOBSCOT,m,1026,Medium Town,SC-adjacent,bedroom
+23050,Georgetown,GEORGETOWN,Georgetown town,SAGADAHOC,m,1058,Medium Town,SC-adjacent,tourism
+17100,Gilead,GILEAD,Gilead town,OXFORD,m,195,Tiny Town,Non-SC,unclassified
+19240,Glenburn,GLENBURN,Glenburn town,PENOBSCOT,m,4648,Small City,SC-adjacent,bedroom
+3230,Glenwood Plt,GLENWOOD PLT,Glenwood plantation,AROOSTOOK,m,5,Tiny Town,Non-SC,unclassified
+5090,Gorham,GORHAM,Gorham town,CUMBERLAND,m,18336,City,SC-adjacent,diversified
+9150,Gouldsboro,GOULDSBORO,Gouldsboro town,HANCOCK,m,1703,Medium Town,SC-adjacent,fishing
+3240,Grand Isle,GRAND ISLE,Grand Isle town,AROOSTOOK,m,366,Small Town,SC-adjacent,bedroom
+29220,Grand Lake Stream Plt,GRAND LAKE STREAM PLT,Grand Lake Stream plantation,WASHINGTON,m,125,Tiny Town,Non-SC,unclassified
+5100,Gray,GRAY,Gray town,CUMBERLAND,m,8269,Small City,Non-SC,professional_services
+9160,Great Pond,GREAT POND,Great Pond town,HANCOCK,m,61,Tiny Town,Non-SC,unclassified
+19260,Greenbush,GREENBUSH,Greenbush town,PENOBSCOT,m,1444,Medium Town,Non-SC,bedroom
+1030,Greene,GREENE,Greene town,ANDROSCOGGIN,m,4376,Small City,SC-adjacent,bedroom
+21090,Greenville,GREENVILLE,Greenville town,PISCATAQUIS,m,1437,Medium Town,Secondary,tourism
+17110,Greenwood,GREENWOOD,Greenwood town,OXFORD,m,774,Small Town,SC-adjacent,bedroom
+21100,Guilford,GUILFORD,Guilford town,PISCATAQUIS,m,1267,Medium Town,Small,manufacturing
+11110,Hallowell,HALLOWELL,Hallowell city,KENNEBEC,m,2570,Large Town,Primary,institutional
+3250,Hamlin,HAMLIN,Hamlin town,AROOSTOOK,m,166,Tiny Town,Non-SC,unclassified
+3260,Hammond,HAMMOND,Hammond town,AROOSTOOK,m,91,Tiny Town,Non-SC,unclassified
+19280,Hampden,HAMPDEN,Hampden town,PENOBSCOT,m,7709,Small City,SC-adjacent,institutional
+9170,Hancock,HANCOCK,Hancock town,HANCOCK,m,2466,Large Town,SC-adjacent,fishing
+9000,Hancock County Island,HANCOCK UT,Marshall Island UT,HANCOCK,u,219,UT,UT,unclassified
+17120,Hanover,HANOVER,Hanover town,OXFORD,m,286,Tiny Town,SC-adjacent,unclassified
+25130,Harmony,HARMONY,Harmony town,SOMERSET,m,825,Small Town,Non-SC,bedroom
+5110,Harpswell,HARPSWELL,Harpswell town,CUMBERLAND,m,5031,Small City,SC-adjacent,bedroom
+29230,Harrington,HARRINGTON,Harrington town,WASHINGTON,m,962,Small Town,SC-adjacent,fishing
+5120,Harrison,HARRISON,Harrison town,CUMBERLAND,m,2447,Large Town,SC-adjacent,bedroom
+17130,Hartford,HARTFORD,Hartford town,OXFORD,m,1203,Medium Town,Non-SC,bedroom
+25140,Hartland,HARTLAND,Hartland town,SOMERSET,m,1705,Medium Town,SC-adjacent,bedroom
+3270,Haynesville,HAYNESVILLE,Haynesville town,AROOSTOOK,m,97,Tiny Town,Non-SC,unclassified
+17140,Hebron,HEBRON,Hebron town,OXFORD,m,1223,Medium Town,Non-SC,bedroom
+19290,Hermon,HERMON,Hermon town,PENOBSCOT,m,6461,Small City,SC-adjacent,institutional
+3280,Hersey,HERSEY,Hersey town,AROOSTOOK,m,73,Tiny Town,SC-adjacent,unclassified
+25150,Highland Plt,HIGHLAND PLT,Highland plantation,SOMERSET,m,52,Tiny Town,Non-SC,unclassified
+17150,Hiram,HIRAM,Hiram town,OXFORD,m,1609,Medium Town,Non-SC,farm_forest
+3290,Hodgdon,HODGDON,Hodgdon town,AROOSTOOK,m,1290,Medium Town,SC-adjacent,bedroom
+19300,Holden,HOLDEN,Holden town,PENOBSCOT,m,3277,Large Town,SC-adjacent,institutional
+31100,Hollis,HOLLIS,Hollis town,YORK,m,4745,Small City,Non-SC,diversified
+13050,Hope,HOPE,Hope town,KNOX,m,1698,Medium Town,SC-adjacent,bedroom
+3300,Houlton,HOULTON,Houlton town,AROOSTOOK,m,6055,Small City,Primary,diversified
+19310,Howland,HOWLAND,Howland town,PENOBSCOT,m,1094,Medium Town,Non-SC,farm_forest
+19320,Hudson,HUDSON,Hudson town,PENOBSCOT,m,1416,Medium Town,Non-SC,bedroom
+7080,Industry,INDUSTRY,Industry town,FRANKLIN,m,788,Small Town,SC-adjacent,bedroom
+3310,Island Falls,ISLAND FALLS,Island Falls town,AROOSTOOK,m,758,Small Town,Non-SC,farm_forest
+13060,Isle au Haut,ISLE AU HAUT,Isle au Haut town,KNOX,m,92,Tiny Town,Non-SC,unclassified
+27070,Islesboro,ISLESBORO,Islesboro town,WALDO,m,583,Small Town,SC-adjacent,fishing
+25160,Jackman,JACKMAN,Jackman town,SOMERSET,m,782,Small Town,Small,institutional
+27080,Jackson,JACKSON,Jackson town,WALDO,m,610,Small Town,Non-SC,bedroom
+7090,Jay,JAY,Jay town,FRANKLIN,m,4620,Small City,Non-SC,bedroom
+15090,Jefferson,JEFFERSON,Jefferson town,LINCOLN,m,2551,Large Town,Non-SC,bedroom
+29240,Jonesboro,JONESBORO,Jonesboro town,WASHINGTON,m,579,Small Town,Non-SC,fishing
+29250,Jonesport,JONESPORT,Jonesport town,WASHINGTON,m,1245,Medium Town,Non-SC,fishing
+19330,Kenduskeag,KENDUSKEAG,Kenduskeag town,PENOBSCOT,m,1346,Medium Town,Non-SC,bedroom
+11801,Unity Twp,KENNEBEC UT,Unity UT,KENNEBEC,u,36,UT,UT,unclassified
+31110,Kennebunk,KENNEBUNK,Kennebunk town,YORK,m,11536,City,Small,tourism
+31120,Kennebunkport,KENNEBUNKPORT,Kennebunkport town,YORK,m,3629,Small City,SC-adjacent,tourism
+7100,Kingfield,KINGFIELD,Kingfield town,FRANKLIN,m,960,Small Town,Non-SC,farm_forest
+21110,Kingsbury Plt,KINGSBURY PLT,Kingsbury plantation,PISCATAQUIS,m,28,Tiny Town,Non-SC,unclassified
+31130,Kittery,KITTERY,Kittery town,YORK,m,10070,City,Small,diversified
+27090,Knox,KNOX,Knox town,WALDO,m,811,Small Town,Non-SC,bedroom
+13801,Criehaven Twp,KNOX UT,Criehaven UT,KNOX,u,13,UT,UT,unclassified
+19340,Lagrange,LAGRANGE,Lagrange town,PENOBSCOT,m,635,Small Town,Non-SC,bedroom
+21120,Lake View Plt,LAKE VIEW PLT,Lake View plantation,PISCATAQUIS,m,150,Tiny Town,Non-SC,unclassified
+19350,Lakeville,LAKEVILLE,Lakeville town,PENOBSCOT,m,104,Tiny Town,Non-SC,unclassified
+9180,Lamoine,LAMOINE,Lamoine town,HANCOCK,m,1720,Medium Town,SC-adjacent,bedroom
+31140,Lebanon,LEBANON,Lebanon town,YORK,m,6469,Small City,Non-SC,bedroom
+19360,Lee,LEE,Lee town,PENOBSCOT,m,916,Small Town,Non-SC,farm_forest
+1040,Leeds,LEEDS,Leeds town,ANDROSCOGGIN,m,2262,Large Town,Non-SC,manufacturing
+19370,Levant,LEVANT,Levant town,PENOBSCOT,m,2940,Large Town,Non-SC,bedroom
+1050,Lewiston,LEWISTON,Lewiston city,ANDROSCOGGIN,m,37121,City,Primary,diversified
+27100,Liberty,LIBERTY,Liberty town,WALDO,m,934,Small Town,Non-SC,manufacturing
+31150,Limerick,LIMERICK,Limerick town,YORK,m,3188,Large Town,Non-SC,diversified
+3320,Limestone,LIMESTONE,Limestone town,AROOSTOOK,m,1526,Medium Town,Secondary,institutional
+31160,Limington,LIMINGTON,Limington town,YORK,m,3892,Small City,Non-SC,bedroom
+19380,Lincoln,LINCOLN,Lincoln town,PENOBSCOT,m,4853,Small City,Small,institutional
+17160,Lincoln Plt,LINCOLN PLT,Lincoln plantation,OXFORD,m,41,Tiny Town,Non-SC,unclassified
+15000,Lincoln County Island,LINCOLN UT,Louds Island UT,LINCOLN,u,4,UT,UT,unclassified
+27110,Lincolnville,LINCOLNVILLE,Lincolnville town,WALDO,m,2312,Large Town,SC-adjacent,fishing
+3330,Linneus,LINNEUS,Linneus town,AROOSTOOK,m,947,Small Town,SC-adjacent,bedroom
+1060,Lisbon,LISBON,Lisbon town,ANDROSCOGGIN,m,9711,Small City,SC-adjacent,institutional
+11120,Litchfield,LITCHFIELD,Litchfield town,KENNEBEC,m,3586,Small City,Non-SC,bedroom
+3340,Littleton,LITTLETON,Littleton town,AROOSTOOK,m,997,Small Town,SC-adjacent,institutional
+1070,Livermore,LIVERMORE,Livermore town,ANDROSCOGGIN,m,2127,Large Town,Non-SC,farm_forest
+1080,Livermore Falls,LIVERMORE FALLS,Livermore Falls town,ANDROSCOGGIN,m,3060,Large Town,Non-SC,manufacturing
+5125,Long Island,LONG ISLAND,Long Island town,CUMBERLAND,m,234,Tiny Town,SC-adjacent,unclassified
+17170,Lovell,LOVELL,Lovell town,OXFORD,m,1104,Medium Town,Non-SC,farm_forest
+19390,Lowell,LOWELL,Lowell town,PENOBSCOT,m,368,Small Town,Non-SC,bedroom
+29260,Lubec,LUBEC,Lubec town,WASHINGTON,m,1237,Medium Town,SC-adjacent,tourism
+3350,Ludlow,LUDLOW,Ludlow town,AROOSTOOK,m,434,Small Town,SC-adjacent,bedroom
+31170,Lyman,LYMAN,Lyman town,YORK,m,4525,Small City,Non-SC,bedroom
+29270,Machias,MACHIAS,Machias town,WASHINGTON,m,2060,Large Town,Primary,institutional
+29280,Machiasport,MACHIASPORT,Machiasport town,WASHINGTON,m,962,Small Town,SC-adjacent,fishing
+3360,Macwahoc Plt,MACWAHOC PLT,Macwahoc plantation,AROOSTOOK,m,62,Tiny Town,Non-SC,unclassified
+3370,Madawaska,MADAWASKA,Madawaska town,AROOSTOOK,m,3867,Small City,Secondary,manufacturing
+25170,Madison,MADISON,Madison town,SOMERSET,m,4726,Small City,SC-adjacent,farm_forest
+11130,Manchester,MANCHESTER,Manchester town,KENNEBEC,m,2456,Large Town,SC-adjacent,institutional
+3380,Mapleton,MAPLETON,Mapleton town,AROOSTOOK,m,1886,Medium Town,SC-adjacent,bedroom
+9200,Mariaville,MARIAVILLE,Mariaville town,HANCOCK,m,472,Small Town,SC-adjacent,bedroom
+3390,Mars Hill,MARS HILL,Mars Hill town,AROOSTOOK,m,1360,Medium Town,Secondary,farm_forest
+29290,Marshfield,MARSHFIELD,Marshfield town,WASHINGTON,m,528,Small Town,SC-adjacent,fishing
+3400,Masardis,MASARDIS,Masardis town,AROOSTOOK,m,204,Tiny Town,Non-SC,unclassified
+13000,Knox County Island,MATINICUS ISLE PLT,Matinicus Isle plantation,KNOX,m,53,Tiny Town,Non-SC,unclassified
+19400,Mattawamkeag,MATTAWAMKEAG,Mattawamkeag town,PENOBSCOT,m,596,Small Town,Non-SC,bedroom
+19410,Maxfield,MAXFIELD,Maxfield town,PENOBSCOT,m,89,Tiny Town,Non-SC,unclassified
+1090,Mechanic Falls,MECHANIC FALLS,Mechanic Falls town,ANDROSCOGGIN,m,3107,Large Town,Non-SC,diversified
+29300,Meddybemps,MEDDYBEMPS,Meddybemps town,WASHINGTON,m,139,Tiny Town,Non-SC,unclassified
+21130,Medford,MEDFORD,Medford town,PISCATAQUIS,m,230,Tiny Town,Non-SC,unclassified
+19420,Medway,MEDWAY,Medway town,PENOBSCOT,m,1187,Medium Town,Non-SC,tourism
+25180,Mercer,MERCER,Mercer town,SOMERSET,m,709,Small Town,Non-SC,bedroom
+3410,Merrill,MERRILL,Merrill town,AROOSTOOK,m,208,Tiny Town,Non-SC,unclassified
+17190,Mexico,MEXICO,Mexico town,OXFORD,m,2756,Large Town,Specialized,farm_forest
+29310,Milbridge,MILBRIDGE,Milbridge town,WASHINGTON,m,1375,Medium Town,Secondary,fishing
+19430,Milford,MILFORD,Milford town,PENOBSCOT,m,3069,Large Town,Non-SC,bedroom
+19440,Millinocket,MILLINOCKET,Millinocket town,PENOBSCOT,m,4114,Small City,Secondary,diversified
+21140,Milo,MILO,Milo town,PISCATAQUIS,m,2251,Large Town,Non-SC,manufacturing
+1100,Minot,MINOT,Minot town,ANDROSCOGGIN,m,2766,Large Town,SC-adjacent,bedroom
+15100,Monhegan Island Plt,MONHEGAN PLT,Monhegan plantation,LINCOLN,m,64,Tiny Town,Non-SC,unclassified
+11140,Monmouth,MONMOUTH,Monmouth town,KENNEBEC,m,4066,Small City,Non-SC,institutional
+27120,Monroe,MONROE,Monroe town,WALDO,m,931,Small Town,Non-SC,bedroom
+21150,Monson,MONSON,Monson town,PISCATAQUIS,m,609,Small Town,Non-SC,farm_forest
+3420,Monticello,MONTICELLO,Monticello town,AROOSTOOK,m,737,Small Town,Non-SC,bedroom
+27130,Montville,MONTVILLE,Montville town,WALDO,m,1020,Medium Town,Non-SC,bedroom
+25190,Moose River,MOOSE RIVER,Moose River town,SOMERSET,m,188,Tiny Town,Non-SC,unclassified
+3430,Moro Plt,MORO PLT,Moro plantation,AROOSTOOK,m,44,Tiny Town,Non-SC,unclassified
+27140,Morrill,MORRILL,Morrill town,WALDO,m,971,Small Town,SC-adjacent,institutional
+25200,Moscow,MOSCOW,Moscow town,SOMERSET,m,475,Small Town,SC-adjacent,bedroom
+19450,Mount Chase,MOUNT CHASE,Mount Chase town,PENOBSCOT,m,187,Tiny Town,SC-adjacent,unclassified
+9210,Mount Desert,MOUNT DESERT,Mount Desert town,HANCOCK,m,2146,Large Town,SC-adjacent,tourism
+11150,Mount Vernon,MOUNT VERNON,Mount Vernon town,KENNEBEC,m,1721,Medium Town,Non-SC,bedroom
+5130,Naples,NAPLES,Naples town,CUMBERLAND,m,3925,Small City,Non-SC,tourism
+3440,Nashville Plt,NASHVILLE PLT,Nashville plantation,AROOSTOOK,m,27,Tiny Town,Non-SC,unclassified
+3450,New Canada,NEW CANADA,New Canada town,AROOSTOOK,m,310,Small Town,SC-adjacent,farm_forest
+5140,New Gloucester,NEW GLOUCESTER,New Gloucester town,CUMBERLAND,m,5676,Small City,SC-adjacent,diversified
+3460,New Limerick,NEW LIMERICK,New Limerick town,AROOSTOOK,m,574,Small Town,SC-adjacent,farm_forest
+25210,New Portland,NEW PORTLAND,New Portland town,SOMERSET,m,765,Small Town,Non-SC,bedroom
+7120,New Sharon,NEW SHARON,New Sharon town,FRANKLIN,m,1458,Medium Town,SC-adjacent,bedroom
+3470,New Sweden,NEW SWEDEN,New Sweden town,AROOSTOOK,m,577,Small Town,SC-adjacent,bedroom
+7130,New Vineyard,NEW VINEYARD,New Vineyard town,FRANKLIN,m,721,Small Town,SC-adjacent,bedroom
+19460,Newburgh,NEWBURGH,Newburgh town,PENOBSCOT,m,1595,Medium Town,Non-SC,bedroom
+15110,Newcastle,NEWCASTLE,Newcastle town,LINCOLN,m,1848,Medium Town,SC-adjacent,professional_services
+31180,Newfield,NEWFIELD,Newfield town,YORK,m,1648,Medium Town,Non-SC,bedroom
+19470,Newport,NEWPORT,Newport town,PENOBSCOT,m,3133,Large Town,Small,institutional
+17200,Newry,NEWRY,Newry town,OXFORD,m,411,Small Town,SC-adjacent,tourism
+15120,Nobleboro,NOBLEBORO,Nobleboro town,LINCOLN,m,1791,Medium Town,SC-adjacent,fishing
+25220,Norridgewock,NORRIDGEWOCK,Norridgewock town,SOMERSET,m,3278,Large Town,SC-adjacent,manufacturing
+31190,North Berwick,NORTH BERWICK,North Berwick town,YORK,m,4978,Small City,Non-SC,institutional
+13080,North Haven,NORTH HAVEN,North Haven town,KNOX,m,417,Small Town,SC-adjacent,fishing
+5150,North Yarmouth,NORTH YARMOUTH,North Yarmouth town,CUMBERLAND,m,4072,Small City,Non-SC,bedroom
+29320,Northfield,NORTHFIELD,Northfield town,WASHINGTON,m,178,Tiny Town,Non-SC,unclassified
+27150,Northport,NORTHPORT,Northport town,WALDO,m,1550,Medium Town,SC-adjacent,diversified
+17210,Norway,NORWAY,Norway town,OXFORD,m,5077,Small City,Secondary,farm_forest
+3480,Oakfield,OAKFIELD,Oakfield town,AROOSTOOK,m,661,Small Town,Non-SC,bedroom
+11160,Oakland,OAKLAND,Oakland town,KENNEBEC,m,6230,Small City,SC-adjacent,diversified
+31197,Ogunquit,OGUNQUIT,Ogunquit town,YORK,m,1577,Medium Town,Non-SC,tourism
+31200,Old Orchard Beach,OLD ORCHARD BEACH,Old Orchard Beach town,YORK,m,8960,Small City,Specialized,tourism
+19480,Old Town,OLD TOWN,Old Town city,PENOBSCOT,m,7431,Small City,SC-adjacent,institutional
+3490,Orient,ORIENT,Orient town,AROOSTOOK,m,156,Tiny Town,Non-SC,unclassified
+9220,Orland,ORLAND,Orland town,HANCOCK,m,2221,Large Town,SC-adjacent,fishing
+19490,Orono,ORONO,Orono town,PENOBSCOT,m,11183,City,Secondary,institutional
+19500,Orrington,ORRINGTON,Orrington town,PENOBSCOT,m,3812,Small City,SC-adjacent,institutional
+9230,Osborn,OSBORN,Osborn town,HANCOCK,m,65,Tiny Town,Non-SC,unclassified
+9240,Otis,OTIS,Otis town,HANCOCK,m,673,Small Town,SC-adjacent,bedroom
+17217,Otisfield,OTISFIELD,Otisfield town,OXFORD,m,1853,Medium Town,SC-adjacent,bedroom
+13090,Owls Head,OWLS HEAD,Owls Head town,KNOX,m,1504,Medium Town,SC-adjacent,fishing
+17220,Oxford,OXFORD,Oxford town,OXFORD,m,4229,Small City,Specialized,tourism
+17180,Magalloway Twp,OXFORD UT,Magalloway plantation,OXFORD,u,802,UT,UT,unclassified
+27160,Palermo,PALERMO,Palermo town,WALDO,m,1570,Medium Town,Non-SC,bedroom
+25230,Palmyra,PALMYRA,Palmyra town,SOMERSET,m,1924,Medium Town,SC-adjacent,farm_forest
+17230,Paris,PARIS,Paris town,OXFORD,m,5179,Small City,SC-adjacent,manufacturing
+21160,Parkman,PARKMAN,Parkman town,PISCATAQUIS,m,747,Small Town,Non-SC,bedroom
+31210,Parsonsfield,PARSONSFIELD,Parsonsfield town,YORK,m,1791,Medium Town,Non-SC,bedroom
+19510,Passadumkeag,PASSADUMKEAG,Passadumkeag town,PENOBSCOT,m,356,Small Town,Non-SC,bedroom
+19520,Patten,PATTEN,Patten town,PENOBSCOT,m,881,Small Town,Primary,institutional
+29350,Pembroke,PEMBROKE,Pembroke town,WASHINGTON,m,788,Small Town,Non-SC,bedroom
+9250,Penobscot,PENOBSCOT,Penobscot town,HANCOCK,m,1136,Medium Town,SC-adjacent,bedroom
+19160,Drew Twp,PENOBSCOT UT,Drew plantation,PENOBSCOT,u,1676,UT,UT,unclassified
+3510,Perham,PERHAM,Perham town,AROOSTOOK,m,371,Small Town,Non-SC,bedroom
+29360,Perry,PERRY,Perry town,WASHINGTON,m,802,Small Town,SC-adjacent,institutional
+17240,Peru,PERU,Peru town,OXFORD,m,1488,Medium Town,SC-adjacent,bedroom
+7140,Phillips,PHILLIPS,Phillips town,FRANKLIN,m,898,Small Town,Non-SC,farm_forest
+23060,Phippsburg,PHIPPSBURG,Phippsburg town,SAGADAHOC,m,2155,Large Town,Non-SC,bedroom
+21000,Piscataquis County Island,PISCATAQUIS UT,Northwest Piscataquis UT,PISCATAQUIS,u,1016,UT,UT,unclassified
+25240,Pittsfield,PITTSFIELD,Pittsfield town,SOMERSET,m,3908,Small City,Secondary,manufacturing
+11170,Pittston,PITTSTON,Pittston town,KENNEBEC,m,2875,Large Town,Non-SC,bedroom
+25250,Pleasant Ridge Plt,PLEASANT RIDGE PLT,Pleasant Ridge plantation,SOMERSET,m,85,Tiny Town,Non-SC,unclassified
+19530,Plymouth,PLYMOUTH,Plymouth town,PENOBSCOT,m,1325,Medium Town,Non-SC,bedroom
+1110,Poland,POLAND,Poland town,ANDROSCOGGIN,m,5906,Small City,SC-adjacent,institutional
+3520,Portage Lake,PORTAGE LAKE,Portage Lake town,AROOSTOOK,m,359,Small Town,Non-SC,farm_forest
+17250,Porter,PORTER,Porter town,OXFORD,m,1600,Medium Town,Non-SC,farm_forest
+5170,Portland,PORTLAND,Portland city,CUMBERLAND,m,68408,City,Primary,professional_services
+5180,Pownal,POWNAL,Pownal town,CUMBERLAND,m,1566,Medium Town,SC-adjacent,bedroom
+3530,Presque Isle,PRESQUE ISLE,Presque Isle city,AROOSTOOK,m,8797,Small City,Primary,institutional
+29370,Princeton,PRINCETON,Princeton town,WASHINGTON,m,745,Small Town,Non-SC,manufacturing
+27170,Prospect,PROSPECT,Prospect town,WALDO,m,698,Small Town,Non-SC,bedroom
+11180,Randolph,RANDOLPH,Randolph town,KENNEBEC,m,1743,Medium Town,Non-SC,institutional
+7150,Rangeley,RANGELEY,Rangeley town,FRANKLIN,m,1222,Medium Town,Specialized,farm_forest
+7160,Rangeley Plt,RANGELEY PLT,Rangeley plantation,FRANKLIN,m,184,Tiny Town,Non-SC,unclassified
+5190,Raymond,RAYMOND,Raymond town,CUMBERLAND,m,4536,Small City,Non-SC,tourism
+11190,Readfield,READFIELD,Readfield town,KENNEBEC,m,2597,Large Town,Non-SC,institutional
+3540,Reed Plt,REED PLT,Reed plantation,AROOSTOOK,m,129,Tiny Town,Non-SC,unclassified
+23070,Richmond,RICHMOND,Richmond town,SAGADAHOC,m,3522,Small City,Non-SC,diversified
+25260,Ripley,RIPLEY,Ripley town,SOMERSET,m,484,Small Town,Non-SC,bedroom
+29380,Robbinston,ROBBINSTON,Robbinston town,WASHINGTON,m,539,Small Town,SC-adjacent,bedroom
+13100,Rockland,ROCKLAND,Rockland city,KNOX,m,6936,Small City,Secondary,fishing
+13110,Rockport,ROCKPORT,Rockport town,KNOX,m,3644,Small City,Specialized,institutional
+11200,Rome,ROME,Rome town,KENNEBEC,m,1148,Medium Town,Non-SC,tourism
+29390,Roque Bluffs,ROQUE BLUFFS,Roque Bluffs town,WASHINGTON,m,296,Tiny Town,SC-adjacent,unclassified
+17260,Roxbury,ROXBURY,Roxbury town,OXFORD,m,361,Small Town,SC-adjacent,bedroom
+17270,Rumford,RUMFORD,Rumford town,OXFORD,m,5858,Small City,Secondary,manufacturing
+1140,Sabattus,SABATTUS,Sabattus town,ANDROSCOGGIN,m,5044,Small City,SC-adjacent,bedroom
+31220,Saco,SACO,Saco city,YORK,m,20381,City,Secondary,diversified
+23801,Perkins Twp Swan Island,SAGADAHOC UT,Perkins UT,SAGADAHOC,u,0,UT,UT,unclassified
+3550,Saint Agatha,SAINT AGATHA,St. Agatha town,AROOSTOOK,m,730,Small Town,SC-adjacent,farm_forest
+25270,Saint Albans,SAINT ALBANS,St. Albans town,SOMERSET,m,2045,Large Town,Non-SC,bedroom
+3560,Saint Francis,SAINT FRANCIS,St. Francis town,AROOSTOOK,m,438,Small Town,Non-SC,farm_forest
+13120,Saint George,SAINT GEORGE,St. George town,KNOX,m,2594,Large Town,Non-SC,fishing
+3570,Saint John Plt,SAINT JOHN PLT,St. John plantation,AROOSTOOK,m,263,Tiny Town,SC-adjacent,unclassified
+7170,Sandy River Plt,SANDY RIVER PLT,Sandy River plantation,FRANKLIN,m,128,Tiny Town,Non-SC,unclassified
+31230,Sanford,SANFORD,Sanford city,YORK,m,21982,City,Small,manufacturing
+21170,Sangerville,SANGERVILLE,Sangerville town,PISCATAQUIS,m,1306,Medium Town,SC-adjacent,institutional
+5200,Scarborough,SCARBOROUGH,Scarborough town,CUMBERLAND,m,22135,City,Specialized,professional_services
+27180,Searsmont,SEARSMONT,Searsmont town,WALDO,m,1400,Medium Town,Non-SC,institutional
+27190,Searsport,SEARSPORT,Searsport town,WALDO,m,2649,Large Town,SC-adjacent,manufacturing
+5210,Sebago,SEBAGO,Sebago town,CUMBERLAND,m,1911,Medium Town,Non-SC,bedroom
+21180,Sebec,SEBEC,Sebec town,PISCATAQUIS,m,665,Small Town,SC-adjacent,farm_forest
+19550,Seboeis Plt,SEBOEIS PLT,Seboeis plantation,PENOBSCOT,m,40,Tiny Town,Non-SC,unclassified
+9260,Sedgwick,SEDGWICK,Sedgwick town,HANCOCK,m,1202,Medium Town,SC-adjacent,bedroom
+31240,Shapleigh,SHAPLEIGH,Shapleigh town,YORK,m,2921,Large Town,Non-SC,bedroom
+3580,Sherman,SHERMAN,Sherman town,AROOSTOOK,m,815,Small Town,SC-adjacent,farm_forest
+21190,Shirley,SHIRLEY,Shirley town,PISCATAQUIS,m,251,Tiny Town,SC-adjacent,unclassified
+11210,Sidney,SIDNEY,Sidney town,KENNEBEC,m,4645,Small City,SC-adjacent,bedroom
+25280,Skowhegan,SKOWHEGAN,Skowhegan town,SOMERSET,m,8620,Small City,Primary,diversified
+25290,Smithfield,SMITHFIELD,Smithfield town,SOMERSET,m,925,Small Town,Non-SC,diversified
+3590,Smyrna,SMYRNA,Smyrna town,AROOSTOOK,m,439,Small Town,Non-SC,bedroom
+25300,Solon,SOLON,Solon town,SOMERSET,m,978,Small Town,SC-adjacent,institutional
+25801,Alder Brook Twp,SOMERSET UT,Seboomook Lake UT,SOMERSET,u,767,UT,UT,unclassified
+15130,Somerville,SOMERVILLE,Somerville town,LINCOLN,m,600,Small Town,Non-SC,bedroom
+9270,Sorrento,SORRENTO,Sorrento town,HANCOCK,m,279,Tiny Town,Non-SC,unclassified
+31250,South Berwick,SOUTH BERWICK,South Berwick town,YORK,m,7467,Small City,Non-SC,institutional
+15140,South Bristol,SOUTH BRISTOL,South Bristol town,LINCOLN,m,1127,Medium Town,Non-SC,institutional
+5220,South Portland,SOUTH PORTLAND,South Portland city,CUMBERLAND,m,26498,City,Secondary,diversified
+13130,South Thomaston,SOUTH THOMASTON,South Thomaston town,KNOX,m,1511,Medium Town,SC-adjacent,fishing
+15150,Southport,SOUTHPORT,Southport town,LINCOLN,m,622,Small Town,SC-adjacent,institutional
+9280,Southwest Harbor,SOUTHWEST HARBOR,Southwest Harbor town,HANCOCK,m,1756,Medium Town,Specialized,fishing
+19560,Springfield,SPRINGFIELD,Springfield town,PENOBSCOT,m,293,Tiny Town,Non-SC,unclassified
+19570,Stacyville,STACYVILLE,Stacyville town,PENOBSCOT,m,380,Small Town,SC-adjacent,farm_forest
+5230,Standish,STANDISH,Standish town,CUMBERLAND,m,10244,City,Non-SC,diversified
+25310,Starks,STARKS,Starks town,SOMERSET,m,593,Small Town,Non-SC,bedroom
+19580,Stetson,STETSON,Stetson town,PENOBSCOT,m,1186,Medium Town,Non-SC,bedroom
+29400,Steuben,STEUBEN,Steuben town,WASHINGTON,m,1129,Medium Town,SC-adjacent,bedroom
+3600,Stockholm,STOCKHOLM,Stockholm town,AROOSTOOK,m,250,Tiny Town,Non-SC,unclassified
+27200,Stockton Springs,STOCKTON SPRINGS,Stockton Springs town,WALDO,m,1533,Medium Town,Non-SC,bedroom
+17280,Stoneham,STONEHAM,Stoneham town,OXFORD,m,261,Tiny Town,Non-SC,unclassified
+9290,Stonington,STONINGTON,Stonington town,HANCOCK,m,1056,Medium Town,Specialized,fishing
+17290,Stow,STOW,Stow town,OXFORD,m,393,Small Town,Non-SC,bedroom
+7180,Strong,STRONG,Strong town,FRANKLIN,m,1122,Medium Town,SC-adjacent,diversified
+9300,Sullivan,SULLIVAN,Sullivan town,HANCOCK,m,1219,Medium Town,Non-SC,fishing
+17300,Sumner,SUMNER,Sumner town,OXFORD,m,994,Small Town,Non-SC,diversified
+9310,Surry,SURRY,Surry town,HANCOCK,m,1632,Medium Town,SC-adjacent,bedroom
+9320,Swans Island,SWANS ISLAND,Swans Island town,HANCOCK,m,355,Small Town,Non-SC,fishing
+27210,Swanville,SWANVILLE,Swanville town,WALDO,m,1377,Medium Town,SC-adjacent,bedroom
+17310,Sweden,SWEDEN,Sweden town,OXFORD,m,406,Small Town,Non-SC,bedroom
+29410,Talmadge,TALMADGE,Talmadge town,WASHINGTON,m,70,Tiny Town,Non-SC,unclassified
+7190,Temple,TEMPLE,Temple town,FRANKLIN,m,527,Small Town,SC-adjacent,bedroom
+25320,The Forks Plt,THE FORKS PLT,The Forks plantation,SOMERSET,m,48,Tiny Town,Non-SC,unclassified
+13140,Thomaston,THOMASTON,Thomaston town,KNOX,m,2739,Large Town,Small,fishing
+27220,Thorndike,THORNDIKE,Thorndike town,WALDO,m,774,Small Town,Non-SC,farm_forest
+29420,Topsfield,TOPSFIELD,Topsfield town,WASHINGTON,m,179,Tiny Town,Non-SC,unclassified
+23080,Topsham,TOPSHAM,Topsham town,SAGADAHOC,m,9560,Small City,Specialized,diversified
+9330,Tremont,TREMONT,Tremont town,HANCOCK,m,1544,Medium Town,SC-adjacent,fishing
+9340,Trenton,TRENTON,Trenton town,HANCOCK,m,1584,Medium Town,SC-adjacent,professional_services
+27230,Troy,TROY,Troy town,WALDO,m,1018,Medium Town,Non-SC,bedroom
+1120,Turner,TURNER,Turner town,ANDROSCOGGIN,m,5817,Small City,SC-adjacent,farm_forest
+13150,Union,UNION,Union town,KNOX,m,2383,Large Town,Non-SC,professional_services
+27240,Unity,UNITY,Unity town,WALDO,m,2292,Large Town,Non-SC,farm_forest
+17320,Upton,UPTON,Upton town,OXFORD,m,69,Tiny Town,Non-SC,unclassified
+3610,Van Buren,VAN BUREN,Van Buren town,AROOSTOOK,m,2038,Large Town,Small,farm_forest
+29430,Vanceboro,VANCEBORO,Vanceboro town,WASHINGTON,m,102,Tiny Town,Non-SC,unclassified
+11220,Vassalboro,VASSALBORO,Vassalboro town,KENNEBEC,m,4520,Small City,SC-adjacent,bedroom
+19590,Veazie,VEAZIE,Veazie town,PENOBSCOT,m,1814,Medium Town,SC-adjacent,diversified
+9350,Verona Island,VERONA,Verona Island town,HANCOCK,m,507,Small Town,Non-SC,bedroom
+11230,Vienna,VIENNA,Vienna town,KENNEBEC,m,578,Small Town,Non-SC,bedroom
+13160,Vinalhaven,VINALHAVEN,Vinalhaven town,KNOX,m,1279,Medium Town,Non-SC,fishing
+3620,Wade,WADE,Wade town,AROOSTOOK,m,229,Tiny Town,Non-SC,unclassified
+29440,Waite,WAITE,Waite town,WASHINGTON,m,66,Tiny Town,Non-SC,unclassified
+27250,Waldo,WALDO,Waldo town,WALDO,m,795,Small Town,SC-adjacent,bedroom
+15160,Waldoboro,WALDOBORO,Waldoboro town,LINCOLN,m,5154,Small City,SC-adjacent,fishing
+1130,Wales,WALES,Wales town,ANDROSCOGGIN,m,1608,Medium Town,Non-SC,bedroom
+3630,Wallagrass,WALLAGRASS,Wallagrass town,AROOSTOOK,m,519,Small Town,SC-adjacent,bedroom
+9360,Waltham,WALTHAM,Waltham town,HANCOCK,m,332,Small Town,Non-SC,bedroom
+13170,Warren,WARREN,Warren town,KNOX,m,4865,Small City,SC-adjacent,fishing
+3640,Washburn,WASHBURN,Washburn town,AROOSTOOK,m,1527,Medium Town,SC-adjacent,farm_forest
+13180,Washington,WASHINGTON,Washington town,KNOX,m,1592,Medium Town,Non-SC,bedroom
+29000,Washington County Island,WASHINGTON UT,East Central Washington UT,WASHINGTON,u,2694,UT,UT,unclassified
+31260,Waterboro,WATERBORO,Waterboro town,YORK,m,7936,Small City,Non-SC,diversified
+17330,Waterford,WATERFORD,Waterford town,OXFORD,m,1570,Medium Town,SC-adjacent,bedroom
+11240,Waterville,WATERVILLE,Waterville city,KENNEBEC,m,15828,City,Primary,institutional
+11250,Wayne,WAYNE,Wayne town,KENNEBEC,m,1129,Medium Town,Non-SC,bedroom
+19600,Webster Plt,WEBSTER PLT,Webster plantation,PENOBSCOT,m,68,Tiny Town,Non-SC,unclassified
+7200,Weld,WELD,Weld town,FRANKLIN,m,376,Small Town,Non-SC,bedroom
+21200,Wellington,WELLINGTON,Wellington town,PISCATAQUIS,m,229,Tiny Town,Non-SC,unclassified
+31270,Wells,WELLS,Wells town,YORK,m,11314,City,Non-SC,tourism
+29450,Wesley,WESLEY,Wesley town,WASHINGTON,m,122,Tiny Town,Non-SC,unclassified
+23090,West Bath,WEST BATH,West Bath town,SAGADAHOC,m,1910,Medium Town,SC-adjacent,manufacturing
+25330,West Forks Plt,WEST FORKS PLT,West Forks plantation,SOMERSET,m,58,Tiny Town,Non-SC,unclassified
+11260,West Gardiner,WEST GARDINER,West Gardiner town,KENNEBEC,m,3671,Small City,Non-SC,bedroom
+17340,West Paris,WEST PARIS,West Paris town,OXFORD,m,1766,Medium Town,SC-adjacent,bedroom
+5240,Westbrook,WESTBROOK,Westbrook city,CUMBERLAND,m,20400,City,Secondary,professional_services
+3650,Westfield,WESTFIELD,Westfield town,AROOSTOOK,m,455,Small Town,SC-adjacent,bedroom
+3660,Westmanland,WESTMANLAND,Westmanland town,AROOSTOOK,m,79,Tiny Town,Non-SC,unclassified
+3670,Weston,WESTON,Weston town,AROOSTOOK,m,245,Tiny Town,Non-SC,unclassified
+15170,Westport Island,WESTPORT ISLAND,Westport Island town,LINCOLN,m,719,Small Town,SC-adjacent,bedroom
+15180,Whitefield,WHITEFIELD,Whitefield town,LINCOLN,m,2408,Large Town,SC-adjacent,bedroom
+29460,Whiting,WHITING,Whiting town,WASHINGTON,m,482,Small Town,Non-SC,bedroom
+29470,Whitneyville,WHITNEYVILLE,Whitneyville town,WASHINGTON,m,202,Tiny Town,SC-adjacent,unclassified
+21210,Willimantic,WILLIMANTIC,Willimantic town,PISCATAQUIS,m,134,Tiny Town,SC-adjacent,unclassified
+7210,Wilton,WILTON,Wilton town,FRANKLIN,m,3835,Small City,SC-adjacent,institutional
+5250,Windham,WINDHAM,Windham town,CUMBERLAND,m,18434,City,Specialized,diversified
+11270,Windsor,WINDSOR,Windsor town,KENNEBEC,m,2632,Large Town,SC-adjacent,bedroom
+19610,Winn,WINN,Winn town,PENOBSCOT,m,399,Small Town,Non-SC,farm_forest
+11280,Winslow,WINSLOW,Winslow town,KENNEBEC,m,7948,Small City,SC-adjacent,diversified
+9370,Winter Harbor,WINTER HARBOR,Winter Harbor town,HANCOCK,m,461,Small Town,Specialized,fishing
+27260,Winterport,WINTERPORT,Winterport town,WALDO,m,3817,Small City,Non-SC,bedroom
+3680,Winterville Plt,WINTERVILLE PLT,Winterville plantation,AROOSTOOK,m,194,Tiny Town,Non-SC,unclassified
+11290,Winthrop,WINTHROP,Winthrop town,KENNEBEC,m,6121,Small City,Non-SC,institutional
+15190,Wiscasset,WISCASSET,Wiscasset town,LINCOLN,m,3742,Small City,Specialized,manufacturing
+3690,Woodland,WOODLAND,Woodland town,AROOSTOOK,m,1217,Medium Town,SC-adjacent,bedroom
+17350,Woodstock,WOODSTOCK,Woodstock town,OXFORD,m,1352,Medium Town,Non-SC,bedroom
+19620,Woodville,WOODVILLE,Woodville town,PENOBSCOT,m,201,Tiny Town,Non-SC,unclassified
+23100,Woolwich,WOOLWICH,Woolwich town,SAGADAHOC,m,3068,Large Town,Non-SC,institutional
+5260,Yarmouth,YARMOUTH,Yarmouth town,CUMBERLAND,m,8990,Small City,SC-adjacent,institutional
+31280,York,YORK,York town,YORK,m,13723,City,Non-SC,tourism

@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy
+matplotlib>=3.8
+openpyxl
+requests
+pytest
+jupyterlab   # only needed for the notebook, 40-time-trends.ipynb
